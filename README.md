@@ -2,7 +2,6 @@
 ### 아무것도 없는데 무얼 기대하고 들어오신거죠? 🤔
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongsk0066)](https://github.com/anuraghazra/github-readme-stats)
 
-## 아아 마잌 테스트 github dev
 <!--
 **yongsk0066/yongsk0066** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
