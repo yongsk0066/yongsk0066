@@ -3,6 +3,14 @@
 
 ### 장용석
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/yongsk0066"
+  width="600"
+  height="300"
+/>
+</a>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yongsk0066&count_private=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
