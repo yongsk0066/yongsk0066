@@ -10,12 +10,3 @@
 
 [![Duolingo Stats](https://yongsk0066.github.io/duolingo-card/card.svg)](https://duolingo.com/profile/yongsk0066)
 
----
-
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/yongsk0066"
-  width="600"
-  height="300"
-/>
-</a>
